@@ -71,11 +71,16 @@
 
 - The start-line and HTTP headers of the HTTP message are collectively known as the head of the request, whereas it's payload is known as the body.
  
- # Types of reuqests:
+ # Types of requests:
 
  - HTTP request methods: GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE, PATCH.
 
+- Used to get the information you want.
 
 # Fetching types
      - Get: To get information
      - Post: To store information in the server.
+
+# 503 Errror
+- Means that the server is not able to handle incoming requests, means it's overloaded. 
+- For example clicking on a link and it's incapable of loading the request. 
