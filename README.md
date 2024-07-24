@@ -10,8 +10,11 @@
     - A server that contains web content
     - Any websites that you visit are stored in a web server.
     - Can have multiple servers in one.
+    - Two Types of web servers to be able to publish a website they must be a static or dynamic web server:
+    - A static web server is content that is simple for example something that doesn't change when you reuqest something.
+    - A dynamic web server depends on what your request is so information that you are inputing this can be personalised based on your information. 
 ##  Application Servers
-    - Anythign that is stored related to a appplication for example: files, data, information that is stored in a application server.
+    - Anything that is stored that is related to a appplication for example: files, data, information that is stored in a application server.
 
     - This is a software that you use in a webserver.
 ## Database Servers
@@ -29,15 +32,18 @@
 
 - Clients are the ones seeking/looking for information (client meaning yourself) 
 
-- 
+- To be able to fetch a webpage the browser will send a request to the webserver 
+
+- Hosting files is when a web server has to store files from the website for example html docs and their assest.
+
+- It's convinent if you want to store all the files in a dedicated web server. 
 
 ## How a server works:
 
 - Server listens to a request from the clients and the server gets a response depending on the request sent by the client. Example: Typing something into a URL 
 
-- 
-
-
 # APIS
+
+- 
 
 # Requests
