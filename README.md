@@ -44,6 +44,14 @@
 
 # APIS
 
-- 
+- Stands for Appplication program interface.
+- A medium for communication between softwares/applications
+- Example: Communication between one software to another.
+- A website's API can be used by your app to retrieve information/content/data from the website. 
+- When you go into something like google maps and click on a section like "Maps" the website will use the API to fetch the information and display it.
+- Responses with data typically come in JSON format. Specificly the ones that are fetching information.
+- Using APIS help you use all the features. 
+- APIS allow integration of different systems and applications.
+- Allow automation and interaction between software components.
 
 # Requests
