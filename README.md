@@ -54,4 +54,28 @@
 - APIS allow integration of different systems and applications.
 - Allow automation and interaction between software components.
 
-# Requests
+# Requests and Responses
+
+- Request is when you're asking for information from the server.
+- Responses is giving you information.
+- Ways you can request information is by using the URL
+- Example: Clicking a link and it takes you to a website.
+- When you request from a website the information that is being sent out: 
+1. A start-line describing the request to be implemented. 
+
+2. An optional set of HTTP headers specifying the request, or describing the body included in the message. 
+
+3. A blank line indicating all the meta-information for the request has been sent.
+
+4. An optional body containing data associated with the request (like content of an HTML form) or the document associated with a reponse.
+
+- The start-line and HTTP headers of the HTTP message are collectively known as the head of the request, whereas it's payload is known as the body.
+ 
+ # Types of reuqests:
+
+ - HTTP request methods: GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE, PATCH.
+
+
+# Fetching types
+     - Get: To get information
+     - Post: To store information in the server.
